@@ -11,7 +11,7 @@ src_managed/
 project/boot/
 project/plugins/project/
 project/local-plugins.sbt
-project/*
+project/
 .history
 .bsp
 .metals
